@@ -1,1 +1,1 @@
-I'm learning basics of Git and GitHub.
+I'm learning the basics of Git and GitHub. So this repo is just for experimenting.
